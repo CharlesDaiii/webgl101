@@ -55,11 +55,5 @@
         }
       ]
     }
-  ],
-  "functions": {
-    "app.js": {
-      "maxDuration": 10
-    }
-  },
-  "regions": ["hkg1", "sin1"]
+  ]
 }
